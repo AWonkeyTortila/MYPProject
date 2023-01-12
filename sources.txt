@@ -1,0 +1,10 @@
+HTML:
+https://www.w3schools.com/html/default.asp
+
+CSS:
+https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS
+https://www.w3schools.com/Css/
+https://www.tutorialspoint.com/css/index.htm
+
+Javascript:
+https://javascript.info/
