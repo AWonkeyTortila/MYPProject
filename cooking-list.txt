@@ -13,5 +13,12 @@
   -wait the same ammount of time
   -done
 3. pie
-4. stake
-5. cake
+4. chicken
+  -flatten chicken
+  -add seasoning
+  -start the fire
+  -put chicken on the grill
+  -let it cook
+  -flip sides
+  -hope for the best.
+5. eclair
