@@ -1,0 +1,17 @@
+1. eggs
+  -grab the egg
+  -put some cooking oil on the pan
+  -cook the egg
+2. pancakes
+  -grab flour, eggs & milk
+  -stir the ingridients togheter
+  -put butter on the pan
+  -put the batter on the pan
+  -cook
+  -wait until bubles come out on top
+  -flip
+  -wait the same ammount of time
+  -done
+3. pie
+4. stake
+5. cake
